@@ -14,3 +14,36 @@
 1. Partition arrays into 2 sets such that difference is minimum
 2. Subset sum problem
 - Solved few questions from 2 day long codechef college chapter contest: https://www.codechef.com/SSC72021?order=desc&sortBy=successful_submissions
+
+## Day 3: 17/03/2021
+- Design Questions (gfg)
+1. Stack using two queues
+2. Queue using two stack
+3. Ternary Search
+4. Binary Heap Operations
+5. LRU cache
+6. Trie | (Insert and Search)
+
+## Day 4: 18/03/2021
+- Algorithms
+1. Bubble Sort
+2. Insertion Sort
+3. Selection Sort
+4. Merge Sort
+5. Quick Sort
+6. Heap Sort
+7. Count Sort
+8. Kadane Algorithm
+9. Minimum Spanning Tree
+10. Implementing Dijkstra Algorithm
+11. Floyd Warshall
+12. Bellman Ford Algorithm
+13. Rabin-Karp Algorithm
+14. KMP algorithm
+15. Z Algorithm
+16. Huffman Encoding
+
+## Day 5: 19/03/2021
+- Revision of design and algorithms section
+- march long challenge codechef editorial
+- Tough questions: KMP Algo and Z algo: DO again
