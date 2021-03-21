@@ -41,9 +41,28 @@
 13. Rabin-Karp Algorithm
 14. KMP algorithm
 15. Z Algorithm
-16. Huffman Encoding
+16. Huffman Decoding
 
 ## Day 5: 19/03/2021
 - Revision of design and algorithms section
 - march long challenge codechef editorial
 - Tough questions: KMP Algo and Z algo: DO again
+
+## Day 6: 20/03/2021
+- Backtracking questions
+1. Word Boggle – 1
+2. Rat in a Maze Problem
+3. Largest number in K swaps
+
+## Day 7: 21/03/2021
+- Hackerearth March Circuits
+- Gave codechef cookoff march
+- Ode for code on Coding ninjas: https://classroom.codingninjas.com/app/classroom/me/7518/content/110280
+- Goldmann sachs round 2 test on hackerrank
+- Important questions:
+1. Zig zag array
+2. print all squares between l and r(trick used)
+3. find the length of largest subarray having sum atmost k (Goldman sachs ques)
+4. Basic DFS
+5. https://www.geeksforgeeks.org/largest-number-up-to-n-whose-modulus-with-x-is-equal-to-y-modulo-x/
+ 
